@@ -25,30 +25,30 @@ Enjoy
 
 Heyo, folks of the internet, I’ve got words to say,<br>
 Myself Rehmat Singh Chawla, though call me Bread you may,<br>
-My branch, it would be EP, my home though, the bookshelf,
+My branch, it would be EP, my home though, the bookshelf,<br>
 Now allow me, words flowing free, to introduce myself!
 
-<p>Incoming!</p>
-The volleyball-loving weeb,
-<p>Not tricks, just words up his sleeve,</p>
-Poetry, rap, stories, you name it, I’m up for it all!
+Incoming!<br>
+The volleyball-loving weeb,<br>
+Not tricks, just words up his sleeve,<br>
+Poetry, rap, stories, you name it, I’m up for it all!<br>
 But keep your expectations low, I’m in the amateurs’ hall.
 
-I’ve got no
-Favourite story, it’s been so long since I picked one up!
-Interesting history, might feel bland, plain milk in a cup!
-But words make me feel alive, I jive,
+I’ve got no<br>
+Favourite story, it’s been so long since I picked one up!<br>
+Interesting history, might feel bland, plain milk in a cup!<br>
+But words make me feel alive, I jive,<br>
 This club’s where I’m gonna thrive!
 
-There’s a bit more to me, I love sweet stuff, and coffee, well,
-It’s gotta be a little divine for a drink to shine, froth, and flavour so,
-They call it an addiction, I say it’s soothing my soul, or rather,
-Exciting, transforming, igniting my psyche of fighting,
+There’s a bit more to me, I love sweet stuff, and coffee, well,<br>
+It’s gotta be a little divine for a drink to shine, froth, and flavour so,<br>
+They call it an addiction, I say it’s soothing my soul, or rather,<br>
+Exciting, transforming, igniting my psyche of fighting,<br>
 Makes me wanna pick up a pen, and start writing!
 
-This is it for now, but it ain’t all, chief.
-Five paragraphs this time, next will be six.
-Did I seem too arrogant? Sorry, that’s just mischief,
+This is it for now, but it ain’t all, chief.<br>
+Five paragraphs this time, next will be six.<br>
+Did I seem too arrogant? Sorry, that’s just mischief,<br>
 Now I’ve spent way too long on this, back to Physics. 
 
 
