@@ -19,8 +19,13 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Welcome!<br>
+I'm Rehmat, wannabe Physicist, coffee <s>addict</s> lover, and amateur wordsmith.<br>
+I'm currently completing my undergraduate studies in Engineering Physics at <a href="https://www.iitb.ac.in/">IIT Bombay</a>, and hope to pursue a PhD in Physics in the near future.<br>
+My research is currently focused on Topological Quantum Field Theories, but my interests span a wide variety of fields, including Quantum Field Theories, Medical Imaging, and Quantum Information. I especially enjoy finding connections between different fields, and adapting mathematical and computational techniques across them.
 
-Hola<br>
+
+<!-- Hola<br>
 I could introduce myself, but a poem I wrote a few years ago does a better job, so<br>
 Enjoy
 
@@ -50,4 +55,4 @@ Makes me wanna pick up a pen, and start writing!
 This is it for now, but it ain’t all, chief.<br>
 Five paragraphs this time, next will be six.<br>
 Did I seem too arrogant? Sorry, that’s just mischief,<br>
-Now I’ve spent way too long on this, back to Physics. 
+Now I’ve spent way too long on this, back to Physics.  -->
