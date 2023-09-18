@@ -9,13 +9,10 @@ profile:
   image: JPET.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
-    <p><a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i>Email : rehmatsinghchawla (at) iitb.ac.in</a></p>
-    <p><a href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}" title="Stackoverflow"><i class="fab fa-stack-overflow"></i>StackOverflow</a></p>
-    <p><a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"></i>Github : RehmatSChawla</a></p>
-    <p><a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i>LinkedIn</a></p>
+    <p><a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i> rehmatsinghchawla (at) iitb.ac.in</a></p>
+    <p><a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"></i> RehmatSChawla</a></p>
+    <p><a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>, 
+    <a href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}" title="Stackoverflow"><i class="fab fa-stack-overflow"></i></a></p>
 
 news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
