@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Rehmat's Personal Website # the website title (if blank, full name will be used instead)
+title: Rehmat Singh Chawla # the website title (if blank, full name will be used instead)
 first_name: Rehmat
 middle_name: Singh
 last_name: Chawla
@@ -122,9 +122,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: The Wristwatch # blog_name will be displayed in your blog page
+blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+blog_description: A place for thoughts
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -139,17 +139,18 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: alshedivat/al-folio      # <your-github-user-name>/<your-github-repo-name>
-  repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
-  category: Comments             # name of the category under which discussions will be created
-  category_id: DIC_kwDOA5PmLc4CTBt6
+  repo: RehmatSChawla/RehmatSChawla.github.io      # <your-github-user-name>/<your-github-repo-name>
+  repo_id: R_kgDOJq22ZQ
+  category: General             # name of the category under which discussions will be created
+  category_id: DIC_kwDOJq22Zc4CZbUB
   mapping: title                 # identify discussions by post title
   strict: 1                      # use strict identification mode
   reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
-  input_position: bottom         # whether to display input form below (bottom) or above (top) the comments
+  input_position: top         # whether to display input form below (bottom) or above (top) the comments
   theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
   emit_metadata: 0
   lang: en
+  loading: lazy
 
 # Disqus comments (DEPRECATED)
 disqus_shortname: al-folio # put your disqus shortname

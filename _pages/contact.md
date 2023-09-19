@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
-description: Teaching experience
-nav_order: 6
-nav: false
+permalink: /contact/
+title: Contact
+description: How to contact me
+nav_order: 7
+nav: true
 ---
 
 For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
