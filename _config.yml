@@ -6,7 +6,7 @@ title: Rehmat Singh Chawla # the website title (if blank, full name will be used
 first_name: Rehmat
 middle_name: Singh
 last_name: Chawla
-email: rehmatsinghchawla@iitb.ac.in
+email: rehmatsinghchawla [at] iitb.ac.in
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to my website! I study Physics, make coffee, write poetry and generally vibe.
 footer_text: >
@@ -16,7 +16,7 @@ footer_text: >
 keywords: rehmat, rehmat-singh-chawla, singh, chawla, physics, ep, iitb, undergraduate, high-energy-physics, theory, quantum, topology, quantum-field-theory, sikh, punjab, jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: R  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://rehmatschawla.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -52,7 +52,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 1000px
