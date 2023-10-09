@@ -10,7 +10,7 @@ related_posts: true
 ---
 One thing I love is using multiple languages in a single poem. While I'm yet limited by my lack of polyglottism (I'm certain that's not really a word, but then it should be), I do have one attempt at such a poem that's dear to my heart, it was the poem with which I realised I could write meaningful, interesting poems and that I enjoyed it a lot. Presenting,
 
-<p class="poem">
+<div class="poem">
 <b>Sometimes you just like the sting</b><br><br>
 
 Hear me out, I'm not a masochist,<br>
@@ -43,7 +43,7 @@ But before I go, I'll leave you with this,<br>
 The sting may be nice, but not memory miss,<br>
 A little bruise heals easy, not so the cracks and pains,<br>
 Of bones, hearts broken - sometimes never heal again.<br><br>
-</p>
+</div>
 
 Translations:<br>
 "il a pour me" = "it has for me"<br>
