@@ -1,8 +1,10 @@
 ---
-layout: cv
+# layout: cv
+layout: default
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
+# cv_pdf: CV.pdf
+redirect_to: https://tinyurl.com/RehmatCV
 ---

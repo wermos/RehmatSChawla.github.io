@@ -17,6 +17,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  // font-weight: bold;
 }
 
 hr {
@@ -995,4 +996,13 @@ nav[data-toggle="toc"] {
       color: var(--global-danger-block-title);
     }
   }
+}
+
+.poem {
+  font-family: Garamond, serif;
+  white-space: pre-line; /* Preserves newlines in the paragraph */
+}
+
+b {
+  font-weight:bold;
 }
