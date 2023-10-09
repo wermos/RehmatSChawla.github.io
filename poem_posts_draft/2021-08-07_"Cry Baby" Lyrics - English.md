@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cry Baby" Lyrics - English
+title:  Cry Baby Lyrics - English
 date:   2021-08-07 17:30:00
 description: TBA
 tags: poetry
