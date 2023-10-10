@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Once more, rise
+title:  Once more, rise - Origins:New beginnings
 date:   2023-04-18 17:30:00
 description: TBA
 tags: poetry

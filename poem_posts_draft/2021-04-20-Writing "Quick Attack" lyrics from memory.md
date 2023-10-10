@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Writing Quick Attack lyrics from memory
+title:  Writing "Quick Attack" lyrics from memory
 date:   2021-04-20 17:30:00
 description: TBA
 tags: poetry
