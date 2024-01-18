@@ -20,7 +20,7 @@ nav: true
 
 <h4>Email me:</h4>
 <div class="form">
-<form action="https://formsubmit.co/el/yawiwi" method="POST">
+<form action="https://formsubmit.co/el/woxica" method="POST">
     <input type="text" name="Name" placeholder="Name" required>
     <input type="email" name="Email" placeholder="Email" required>
     <input type="text" name="Subject" placeholder="Subject" required>
