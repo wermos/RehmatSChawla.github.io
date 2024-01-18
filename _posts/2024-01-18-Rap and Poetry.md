@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Rap and Poetry
-date:   2024-01-05 08:30:00
+date:   2024-01-17 08:30:00
 description: The two rhythmic genres are considered disjoint by many, but I want to explore their intersection.
 tags: poetry
 giscus_comments: true
