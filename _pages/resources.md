@@ -7,6 +7,5 @@ nav_order: 5
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+This page is under construction. Please check back soon!
+Expected date of completion: 20th August 2024.

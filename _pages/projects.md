@@ -8,7 +8,9 @@ nav_order: 2
 display_categories: [research, courses, hobbies]
 horizontal: false
 ---
-
+This page is under construction. Please check back soon!
+Expected date of completion: 24th August 2024.
+<!-- Make the card horizontal -->
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}

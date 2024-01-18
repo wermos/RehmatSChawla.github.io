@@ -8,8 +8,10 @@ children:
     # - title: publications
     #   permalink: /publications/
     # - title: divider
-    # - title: Poetry Blog
-    #   permalink: /poetry/
-    - title: Teaching
-      permalink: /teaching/
+    - title: Poetry
+      permalink: /blog/tag/poetry/
+    # - title: Teaching
+    #   permalink: /teaching/
+    - title: Photography
+      permalink: /photography/
 ---
