@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  White Rose
-date:   2023-05-14 17:30:00
-description: TBA
+date:   2021-10-01 17:30:00
+description: 
 tags: poetry
 giscus_comments: true
 related_posts: true
