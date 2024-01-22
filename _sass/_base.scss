@@ -1003,6 +1003,13 @@ nav[data-toggle="toc"] {
   white-space: pre-line; /* Preserves newlines in the paragraph */
 }
 
+.tba {
+  color: gray;
+  // color dark gray
+  // color: #333333;
+  font-style: italic;
+}
+
 b {
   font-weight:bold;
 }
