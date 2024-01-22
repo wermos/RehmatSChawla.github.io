@@ -18,7 +18,7 @@ nav: true
 </h5>
 
 
-<h4>Email me:</h4>
+<!-- <h4>Email me:</h4>
 <div class="form">
 <form action="https://formsubmit.co/el/woxica" method="POST">
     <input type="text" name="Name" placeholder="Name" required>
@@ -27,7 +27,12 @@ nav: true
     <textarea name="Message" placeholder="Message" required></textarea>
     <button type="submit">Send</button>
 </form>
-</div>
+</div> -->
+<br>
+<!-- Center the followine -->
+<p align="center">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAvkUOCPlKNst8qjh2IafGZKmWxFYIuZH9ODM2jBja7ESfiQ/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</p>
 
 <style>
 input[type=text], select {

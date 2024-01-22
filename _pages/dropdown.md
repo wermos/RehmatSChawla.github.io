@@ -14,6 +14,6 @@ children:
     #   permalink: /teaching/
     - title: Photography
       permalink: /photography/
-    - title: Mind in Media
+    - title: My Mind in Media
       permalink: /media-recos/
 ---
