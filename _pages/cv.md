@@ -3,6 +3,7 @@
 layout: default
 permalink: /cv/
 title: CV
+description: My Curriculum Vitae, detailing my research, projects and other experiences.
 nav: true
 nav_order: 4
 # cv_pdf: CV.pdf
@@ -13,6 +14,8 @@ nav_order: 4
 In case the PDF does not load, click &nbsp;<button onclick="window.open('https://tinyurl.com/RehmatCV')">here</button> to open in a new window.
 </div>
 
+
+<div class="tba"><small>Last updated: January 2024</small></div>
 <hr>
 <embed src="../assets/pdf/CV.pdf" width="100%" height="1200px" type="application/pdf">
 <hr>
