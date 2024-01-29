@@ -1,6 +1,6 @@
 ---
 # layout: cv
-layout: default
+layout: page
 permalink: /cv/
 title: CV
 description: My Curriculum Vitae, detailing my research, projects and other experiences.
@@ -9,6 +9,7 @@ nav_order: 4
 # cv_pdf: CV.pdf
 # redirect_to: https://tinyurl.com/RehmatCV
 ---
+
 <!-- https://drive.google.com/file/d/1n66AEPDVcZ9SJzgoBOQiw0sut9mPGPVR/view?usp=share_link -->
 <div class="tba">
 In case the PDF does not load, click &nbsp;<button onclick="window.open('https://tinyurl.com/RehmatCV')">here</button> to open in a new window.
