@@ -8,13 +8,24 @@ on:
 jobs:
   repo-sync:
     runs-on: ubuntu-latest
+    permissions: 
+      contents: write
+      pull-requests: write
+      actions: write
     steps:
-      # To use this repository's private action, you must check out the repository
+      
       - name: Checkout
         uses: actions/checkout@v4
+        with: 
+          token: ${{ secrets.PAT_Token }}
+
       - name: actions-template-sync
-        uses: AndreasAugustin/actions-template-sync@v1
+        uses: AndreasAugustin/actions-template-sync@v1.5.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           source_repo_path: alshedivat/al-folio
-          upstream_branch: master
+          upstream_branch: upstream-changes
+
+
+
+            
