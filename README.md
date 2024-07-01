@@ -171,7 +171,7 @@ CMU Distributed Systems (<a href="https://andrew.cmu.edu/course/15-440/" target=
 </td>
 </tr>
 <tr>
-<td>Conferences & workshops</td>
+<td>Conferences & workshops.</td>
 <td>
 ICLR Blog Post Track (<a href="https://iclr-blogposts.github.io/2023/" target="_blank">2023</a>, <a href="https://iclr-blogposts.github.io/2024/about" target="_blank">2024</a>) <br>
 ML Retrospectives (NeurIPS: <a href="https://ml-retrospectives.github.io/neurips2019/" target="_blank">2019</a>, <a href="https://ml-retrospectives.github.io/neurips2020/" target="_blank">2020</a>; ICML: <a href="https://ml-retrospectives.github.io/icml2020/" target="_blank">2020</a>) <br>
