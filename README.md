@@ -409,7 +409,7 @@ We decided to keep `Axe` runs manual because fixing the issues are not straightf
 
 ## FAQ
 
-For frequently asked questions, please refer to [FAQ.md](FAQ.md)
+For frequently asked questions, please refer to [FAQ.md](FAQ.md).
 
 ## Contributing
 
