@@ -16,25 +16,17 @@ In case the PDF does not load, click &nbsp;<button onclick="window.open('https:/
 </div>
 
 
-<div class="tba"><small>Last updated: January 2024</small></div>
+<div class="tba"><small>Last updated: June 2024</small></div>
 <hr>
 <embed src="../assets/pdf/CV.pdf" width="100%" height="1200px" type="application/pdf">
 <hr>
 
 <iframe
-    src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://tinyurl.com/RehmatCV#toolbar=0&scrollbar=0"
-    frameBorder="0"
-    scrolling="auto"
-    height="100%"
-    width="100%"
+  src="https://drive.google.com/file/d/1n66AEPDVcZ9SJzgoBOQiw0sut9mPGPVR/preview"
+  width="100%"
+  height="1200px"
+  sallow="autoplay"
 ></iframe>
-
-<!-- <embed src="assets/pdf/CV.pdf" width="100%" height="100%" 
- type="application/pdf"> -->
- <!-- <object data="assets/pdf/CV.pdf" type="application/pdf" style="height: 800px; max-width: 56rem; width: 100%;" aria-label="Curriculum Vitae">
-</object> -->
-
-<!-- <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://example.com/the.pdf" width="500" height="375"> -->
 
 <style>
 .greenbutton {
