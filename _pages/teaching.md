@@ -1,11 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
-description: Teaching experience
+title: teaching
+description: Materials for courses you taught. Replace this text with your description.
+nav: true
 nav_order: 6
-nav: false
 ---
-<div class="tba">
-This page is to describe my teaching experience and provide related resources. It is incomplete as of yet. Please check back soon!
-</div>
+
+For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+
+Organize your courses by years, topics, or universities, however you like!
