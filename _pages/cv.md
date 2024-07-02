@@ -16,13 +16,13 @@ In case the PDF does not load, click &nbsp;<button onclick="window.open('https:/
 </div>
 
 
-<div class="tba"><small>Last updated: January 2024</small></div>
+<div class="tba"><small>Last updated: June 2024</small></div>
 <hr>
 <embed src="../assets/pdf/CV.pdf" width="100%" height="1200px" type="application/pdf">
 <hr>
 
 <iframe
-    src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://tinyurl.com/RehmatCV#toolbar=0&scrollbar=0"
+    src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://drive.google.com/file/d/1n66AEPDVcZ9SJzgoBOQiw0sut9mPGPVR/view#toolbar=0&scrollbar=0"
     frameBorder="0"
     scrolling="auto"
     height="100%"
