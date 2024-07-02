@@ -21,7 +21,7 @@ In case the PDF does not load, click &nbsp;<button onclick="window.open('https:/
 <embed src="../assets/pdf/CV.pdf" width="100%" height="1200px" type="application/pdf">
 <hr>
 
-<embed src="https://drive.google.com/file/d/1n66AEPDVcZ9SJzgoBOQiw0sut9mPGPVR/view" width="100%" height="1200px" type="application/pdf">
+<embed src="https://drive.google.com/file/d/1n66AEPDVcZ9SJzgoBOQiw0sut9mPGPVR" width="100%" height="1200px" type="application/pdf">
 
 <!-- <iframe
     src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://drive.google.com/file/d/1n66AEPDVcZ9SJzgoBOQiw0sut9mPGPVR/view#toolbar=0&scrollbar=0"
