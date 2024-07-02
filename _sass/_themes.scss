@@ -1,3 +1,4 @@
+
 /*******************************************************************************
  * Themes
  ******************************************************************************/
@@ -34,6 +35,8 @@
   --global-danger-block-bg: #ffe0e0;
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
+  
+  --spotify-embed-bg-command: "&theme=0";
 
   #light-toggle-system {
     padding-left: 10px;
@@ -98,6 +101,8 @@ html[data-theme="dark"] {
   --global-danger-block-bg: #ffe0e0;
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
+  
+  --spotify-embed-bg-command: "";
 
   .repo-img-light {
     display: none;
