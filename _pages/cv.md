@@ -12,7 +12,7 @@ nav: true
 
 <!-- https://drive.google.com/file/d/1n66AEPDVcZ9SJzgoBOQiw0sut9mPGPVR/view?usp=share_link -->
 <div class="tba">
-In case the PDF does not load, click &nbsp;<button onclick="window.open('https://tinyurl.com/RehmatCV')">here</button> to open in a new window.
+In case the PDF does not load, click &nbsp;<button onclick="window.open('https://tinyurl.com/RehmatCV')" class="greenbutton">here</button> to open in a new window.
 </div>
 
 
@@ -35,8 +35,9 @@ In case the PDF does not load, click &nbsp;<button onclick="window.open('https:/
 </object> -->
 
 <!-- <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://example.com/the.pdf" width="500" height="375"> -->
-<!-- <style>
-button {
+
+<style>
+.greenbutton {
   background-color: #4CAF50;
   color: white;
   /* padding: 14px 20px; */
@@ -46,7 +47,7 @@ button {
   cursor: pointer;
 }
 
-button:hover {
+.greenbutton:hover {
   background-color: #45a049;
 }
-</style> -->
+</style>
