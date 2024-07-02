@@ -21,13 +21,13 @@ In case the PDF does not load, click &nbsp;<button onclick="window.open('https:/
 <embed src="../assets/pdf/CV.pdf" width="100%" height="1200px" type="application/pdf">
 <hr>
 
-<!-- <iframe
-    src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://drive.google.com/viewerng/viewer?embedded=true&url=http://example.com/the.pdf#toolbar=0&scrollbar=0"
+<iframe
+    src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://tinyurl.com/RehmatCV#toolbar=0&scrollbar=0"
     frameBorder="0"
     scrolling="auto"
     height="100%"
     width="100%"
-></iframe> -->
+></iframe>
 
 <!-- <embed src="assets/pdf/CV.pdf" width="100%" height="100%" 
  type="application/pdf"> -->
