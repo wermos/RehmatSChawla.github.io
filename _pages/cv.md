@@ -18,8 +18,10 @@ In case the PDF does not load, click &nbsp;<button onclick="window.open('https:/
 
 <div class="tba"><small>Last updated: June 2024</small></div>
 <hr>
-<embed src="../assets/pdf/CV.pdf" width="100%" height="1200px" type="application/pdf">
-<hr>
+<!-- <embed src="../assets/pdf/CV.pdf" width="100%" height="1200px" type="application/pdf">
+<hr> -->
+
+
 
 <iframe
   src="https://drive.google.com/file/d/1n66AEPDVcZ9SJzgoBOQiw0sut9mPGPVR/preview"
