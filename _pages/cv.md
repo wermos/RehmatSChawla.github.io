@@ -4,8 +4,8 @@ layout: page
 permalink: /cv/
 title: CV
 description: My Curriculum Vitae, detailing my research, projects and other experiences.
-nav: true
 nav_order: 4
+nav: true
 # cv_pdf: CV.pdf
 # redirect_to: https://tinyurl.com/RehmatCV
 ---
@@ -35,7 +35,7 @@ In case the PDF does not load, click &nbsp;<button onclick="window.open('https:/
 </object> -->
 
 <!-- <embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://example.com/the.pdf" width="500" height="375"> -->
-<style>
+<!-- <style>
 button {
   background-color: #4CAF50;
   color: white;
@@ -49,4 +49,4 @@ button {
 button:hover {
   background-color: #45a049;
 }
-</style>
+</style> -->
