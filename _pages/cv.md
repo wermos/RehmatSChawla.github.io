@@ -22,8 +22,8 @@ In case the PDF does not load, click &nbsp;<button onclick="window.open('https:/
 <hr> -->
 
 <iframe
-  src="https://drive.google.com/file/d/1n66AEPDVcZ9SJzgoBOQiw0sut9mPGPVR/preview#view=FitH"
-  width="100%"
+  src="https://drive.google.com/file/d/1n66AEPDVcZ9SJzgoBOQiw0sut9mPGPVR/preview"
+  width="900px"
   height="1200px"
   sallow="autoplay"
 ></iframe>
