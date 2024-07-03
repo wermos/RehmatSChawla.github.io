@@ -21,10 +21,10 @@ In case the PDF does not load, click &nbsp;<button onclick="window.open('https:/
 <!-- <embed src="../assets/pdf/CV.pdf" width="100%" height="1200px" type="application/pdf">
 <hr> -->
 
-  <!-- src="https://drive.google.com/file/d/1n66AEPDVcZ9SJzgoBOQiw0sut9mPGPVR/preview" -->
+
 
 <iframe
-  src = "https://drive.google.com/uc?export=view&id=1n66AEPDVcZ9SJzgoBOQiw0sut9mPGPVR"
+  src="https://drive.google.com/file/d/1n66AEPDVcZ9SJzgoBOQiw0sut9mPGPVR/preview#view=fitH"
   allowfullscreen="true"
   width="900px"
   height="1200px"
