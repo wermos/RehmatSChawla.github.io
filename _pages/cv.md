@@ -24,9 +24,8 @@ In case the PDF does not load, click &nbsp;<button onclick="window.open('https:/
 
 
 <iframe
-  src="https://drive.google.com/file/d/1n66AEPDVcZ9SJzgoBOQiw0sut9mPGPVR/preview#view=fitH"
-  allowfullscreen="true"
-  width="900px"
+  src="https://drive.google.com/file/d/1n66AEPDVcZ9SJzgoBOQiw0sut9mPGPVR#view=fitH"
+  width="100%"
   height="1200px"
   sallow="autoplay"
 ></iframe>
