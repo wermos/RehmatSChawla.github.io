@@ -25,6 +25,7 @@ In case the PDF does not load, click &nbsp;<button onclick="window.open('https:/
 
 <iframe
   src = "https://drive.google.com/uc?export=view&id=1n66AEPDVcZ9SJzgoBOQiw0sut9mPGPVR#view=FitH"
+  allowfullscreen="true"
   width="900px"
   height="1200px"
   sallow="autoplay"
