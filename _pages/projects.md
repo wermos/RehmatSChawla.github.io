@@ -1,13 +1,18 @@
 ---
-layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
----
+ layout: page
+ title: Projects
+ permalink: /projects/
+ description: A collection of my projects, both academic and personal.
+ nav: true
+ nav_order: 2
+ display_categories: [research, courses, hobbies]
+ horizontal: false
+ ---
+
+ <div class="tba">
+ This page is under construction. Please check back soon!
+ Expected date of completion: 15th March 2024.
+ </div>
 
 <!-- pages/projects.md -->
 <div class="projects">
