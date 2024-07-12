@@ -1287,3 +1287,64 @@ ninja-keys::part(ninja-input-wrapper) {
     border-bottom-color: var(--global-divider-color);
   }
 }
+
+.poem {
+   font-family: Garamond, serif;
+   white-space: pre-line; /* Preserves newlines in the paragraph */
+ }
+
+ .tba {
+   color: gray;
+   // color dark gray
+   // color: #333333;
+   font-style: italic;
+ }
+
+ b {
+   font-weight:bold;
+ }
+
+ .long-5 {
+     margin-bottom: 5cm;
+ }
+
+ /* Top left text */
+ .top-left {
+   position: absolute;
+   top: 8px;
+   left: 16px;
+ }
+
+ /* Top right text */
+ .top-right {
+   position: absolute;
+   top: 8px;
+   right: 16px;
+ }
+
+ /* Bottom right text */
+ .bottom-right {
+   position: absolute;
+   bottom: 8px;
+   right: 16px;
+ }
+
+ /* Centered text */
+ .centered {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+ }
+
+ .image-text {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   font-weight:bold;
+   color:white;
+   // font-size: 30px;
+   font-family: Helvetica, sans-serif;
+   // font-family: Garamond, serif;
+ } 
