@@ -1,5 +1,6 @@
 ---
-layout: cv
+# layout: cv
+layout: page
 permalink: /cv/
 title: CV
 description: My Curriculum Vitae, detailing my research, projects and other experiences.
