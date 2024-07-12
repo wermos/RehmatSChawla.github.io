@@ -6,6 +6,8 @@ importance: 1
 category: markdown
 ---
 
+$$\newcommand{\R}{\mathbb{R}}\newcommand{\d}{\mathrm{d}}$$
+
 > [!example]- _Referring to_
 >
 > - _[Undergraduate Lecture Notes in Topological Quantum Field Theory](http://arXiv.org/abs/0810.0344v5) by Vladimir G. Ivancevic, Tijana T. Ivancevic_[^1]
