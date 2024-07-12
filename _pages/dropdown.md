@@ -2,9 +2,9 @@
  layout: page
  title: Other
  nav: true
- nav_order: 8
+ nav_order: 10
  dropdown: true
- children: 
+ children:
      # - title: publications
      #   permalink: /publications/
      # - title: divider

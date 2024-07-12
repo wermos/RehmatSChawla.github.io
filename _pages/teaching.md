@@ -3,7 +3,7 @@
  permalink: /teaching/
  title: Teaching
  description: Teaching experience
- nav_order: 6
+ nav_order: 7
  nav: false
  ---
  <div class="tba">

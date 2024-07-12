@@ -8,7 +8,7 @@ layout: page
 permalink: /coffee_images/
 title: Coffee Photos
 description: A collection of coffee photos - mostly ones I made, but some other especially pretty ones I drank too.
-nav_order: 10
+nav_order: 12
 nav: false
 ---
 '''
@@ -20,7 +20,7 @@ style_text = '''
         grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
         grid-gap: 10px;
       }
-      
+
       .photo-gallery img {
         width: 100%;
         height: auto;
@@ -29,7 +29,7 @@ style_text = '''
         box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
         transition: transform 0.3s ease-in-out;
       }
-      
+
       .photo-gallery img:hover {
         transform: scale(1.05);
       }

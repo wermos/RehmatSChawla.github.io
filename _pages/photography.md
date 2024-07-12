@@ -3,7 +3,7 @@ layout: page
 permalink: /photography/
 title: Photography
 description: While I'm quite an amateur, I love taking photos of everything I live through. Here are some of my favourites.
-nav_order: 9
+nav_order: 11
 nav: false
 ---
 

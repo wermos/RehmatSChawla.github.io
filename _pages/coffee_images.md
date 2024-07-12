@@ -3,7 +3,7 @@ layout: page
 permalink: /coffee_images/
 title: Coffee Photos
 description: A collection of coffee photos - mostly ones I made, but some other especially pretty ones I drank too.
-nav_order: 10
+nav_order: 12
 nav: false
 ---
 
@@ -13,7 +13,7 @@ nav: false
         grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
         grid-gap: 10px;
       }
-      
+
       .photo-gallery img {
         width: 100%;
         height: auto;
@@ -22,7 +22,7 @@ nav: false
         box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
         transition: transform 0.3s ease-in-out;
       }
-      
+
       .photo-gallery img:hover {
         transform: scale(1.05);
       }
@@ -35,9 +35,9 @@ nav: false
 </style>
 
 <section id="about" class="section-padding">
-      
+
     <div class="photo-gallery">
-    
+
       <div class="col">
           <div class="img-thumb">
               {% include figure.html path='assets/img/coffee/1.jpg' title='1.jpg' class='img-fluid' %}

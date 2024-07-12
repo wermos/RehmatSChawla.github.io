@@ -3,7 +3,7 @@ layout: page
 permalink: /contact/
 title: Contact
 # description:
-nav_order: 7
+nav_order: 8
 nav: true
 ---
 
