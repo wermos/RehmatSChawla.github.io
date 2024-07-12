@@ -27,7 +27,7 @@ In case the PDF does not load, click &nbsp;<button onclick="window.open('https:/
   src="https://drive.google.com/file/d/1n66AEPDVcZ9SJzgoBOQiw0sut9mPGPVR/preview"
   width="100%"
   height="1200px"
-  sallow="autoplay"
+  allow="autoplay"
 ></iframe>
 
 <style>
