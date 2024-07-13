@@ -62,7 +62,7 @@ def img_html(img_path, img_alt, style=1):
         return f'''
       <div class="col">
           <div class="img-thumb">
-              {{% include figure.html path='{img_path}' title='{img_alt}' class='img-fluid' %}}
+              {{% include figure.liquid path='{img_path}' title='{img_alt}' class='img-fluid' %}}
           </div>
       </div>'''
   # <i class="lni-plus"></i>
