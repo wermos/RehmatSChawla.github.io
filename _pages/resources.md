@@ -24,14 +24,14 @@ Expected date of completion: 15th August 2024.
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_resources -%}
-      {% include projects_horizontal.html %}
+      {% include projects_horizontal.liquid %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_resources -%}
-      {% include projects.html %}
+      {% include projects.liquid %}
     {%- endfor %}
   </div>
   {%- endif -%}
@@ -50,14 +50,14 @@ Expected date of completion: 15th August 2024.
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_resources -%}
-      {% include projects_horizontal.html %}
+      {% include projects_horizontal.liquid %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_resources -%}
-      {% include projects.html %}
+      {% include projects.liquid %}
     {%- endfor %}
   </div>
   {%- endif -%}
