@@ -40,47 +40,47 @@ nav: false
 
       <div class="col">
           <div class="img-thumb">
-              {% include figure.liquid loading="eager"path='assets/img/coffee/1.jpg' title='1.jpg' class='img-fluid' %}
+              {% include figure.liquid loading="eager" path='assets/img/coffee/1.jpg' title='1.jpg' class='img-fluid' %}
           </div>
       </div>
       <div class="col">
           <div class="img-thumb">
-              {% include figure.liquid loading="eager"path='assets/img/coffee/2.jpg' title='2.jpg' class='img-fluid' %}
+              {% include figure.liquid loading="eager" path='assets/img/coffee/2.jpg' title='2.jpg' class='img-fluid' %}
           </div>
       </div>
       <div class="col">
           <div class="img-thumb">
-              {% include figure.liquid loading="eager"path='assets/img/coffee/3.jpg' title='3.jpg' class='img-fluid' %}
+              {% include figure.liquid loading="eager" path='assets/img/coffee/3.jpg' title='3.jpg' class='img-fluid' %}
           </div>
       </div>
       <div class="col">
           <div class="img-thumb">
-              {% include figure.liquid loading="eager"path='assets/img/coffee/4.jpg' title='4.jpg' class='img-fluid' %}
+              {% include figure.liquid loading="eager" path='assets/img/coffee/4.jpg' title='4.jpg' class='img-fluid' %}
           </div>
       </div>
       <div class="col">
           <div class="img-thumb">
-              {% include figure.liquid loading="eager"path='assets/img/coffee/5.jpg' title='5.jpg' class='img-fluid' %}
+              {% include figure.liquid loading="eager" path='assets/img/coffee/5.jpg' title='5.jpg' class='img-fluid' %}
           </div>
       </div>
       <div class="col">
           <div class="img-thumb">
-              {% include figure.liquid loading="eager"path='assets/img/coffee/6.jpg' title='6.jpg' class='img-fluid' %}
+              {% include figure.liquid loading="eager" path='assets/img/coffee/6.jpg' title='6.jpg' class='img-fluid' %}
           </div>
       </div>
       <div class="col">
           <div class="img-thumb">
-              {% include figure.liquid loading="eager"path='assets/img/coffee/7.jpg' title='7.jpg' class='img-fluid' %}
+              {% include figure.liquid loading="eager" path='assets/img/coffee/7.jpg' title='7.jpg' class='img-fluid' %}
           </div>
       </div>
       <div class="col">
           <div class="img-thumb">
-              {% include figure.liquid loading="eager"path='assets/img/coffee/8.jpg' title='8.jpg' class='img-fluid' %}
+              {% include figure.liquid loading="eager" path='assets/img/coffee/8.jpg' title='8.jpg' class='img-fluid' %}
           </div>
       </div>
       <div class="col">
           <div class="img-thumb">
-              {% include figure.liquid loading="eager"path='assets/img/coffee/9.jpg' title='9.jpg' class='img-fluid' %}
+              {% include figure.liquid loading="eager" path='assets/img/coffee/9.jpg' title='9.jpg' class='img-fluid' %}
           </div>
       </div>
       <div class="col">
